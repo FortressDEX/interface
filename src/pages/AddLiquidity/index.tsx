@@ -816,7 +816,7 @@ export default function AddLiquidity({
                                       <ExternalLink
                                         style={{ color: theme.yellow3, textDecoration: 'underline' }}
                                         href={
-                                          'https://safahicorp.com'
+                                          `'https://safahicorp.com'`
                                         }
                                       >
                                         here
