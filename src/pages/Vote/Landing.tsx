@@ -142,24 +142,24 @@ export default function Landing() {
               <AutoColumn gap="md">
                 <RowBetween>
                   <ThemedText.White fontWeight={600}>
-                    <Trans>Uniswap Governance</Trans>
+                    <Trans>Hollis Governance</Trans>
                   </ThemedText.White>
                 </RowBetween>
                 <RowBetween>
                   <ThemedText.White fontSize={14}>
                     <Trans>
-                      UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself
+                      HOL tokens represent voting shares in Hollis governance. You can vote on each proposal yourself
                       or delegate your votes to a third party.
                     </Trans>
                   </ThemedText.White>
                 </RowBetween>
                 <ExternalLink
                   style={{ color: 'white', textDecoration: 'underline' }}
-                  href="https://uniswap.org/blog/uni"
+                  href="https://hollisdex.org/blog/hollis"
                   target="_blank"
                 >
                   <ThemedText.White fontSize={14}>
-                    <Trans>Read more about Uniswap governance</Trans>
+                    <Trans>Read more about Hollis governance</Trans>
                   </ThemedText.White>
                 </ExternalLink>
               </AutoColumn>
