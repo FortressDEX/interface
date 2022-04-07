@@ -816,7 +816,7 @@ export default function AddLiquidity({
                                       <ExternalLink
                                         style={{ color: theme.yellow3, textDecoration: 'underline' }}
                                         href={
-                                          'https://help.uniswap.org/en/articles/5434296-can-i-provide-liquidity-over-the-full-range-in-v3'
+                                          'https://safahicorp.com'
                                         }
                                       >
                                         here
