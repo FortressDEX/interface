@@ -148,8 +148,7 @@ export default function Landing() {
                 <RowBetween>
                   <ThemedText.White fontSize={14}>
                     <Trans>
-                      HOL tokens represent voting shares in Hollis governance. You can vote on each proposal yourself
-                      or delegate your votes to a third party.
+                      HOL tokens represent voting shares in Hollis governance. You can vote on each proposal yourself or delegate your votes to a third party.
                     </Trans>
                   </ThemedText.White>
                 </RowBetween>
